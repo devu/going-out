@@ -1,0 +1,24 @@
+.container {
+    max-width: 400px;
+    li{
+        padding: 5px;
+        margin: 4px;
+        background-color: #bebebe; 
+    }
+}
+
+.list {
+    display: inline-block;
+    max-width: 200px;
+    padding: 5px;
+}
+
+.list-item {
+    padding: 5px;
+    margin: 4px;
+    background-color: #bebebe;
+}
+
+.active{
+    background-color: #45bebe;
+}
